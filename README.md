@@ -1,4 +1,5 @@
-IIM: Information Integration Model
+[📥 Download PDF](/manuscript/IIM.pdf)IIM: Information Integration Model
+
 Preprint Notice
 This repository contains the author's preprint manuscript of the paper titled "IIM (Information Integration Model): Consciousness as a Compensatory Patch under Physical Speed Limits".
 Status: Submitted to Synthese (under review).
