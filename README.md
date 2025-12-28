@@ -56,8 +56,7 @@ This research was born from the intersection of existential pressure and physica
 Direct Support: To maintain the author’s intellectual sovereignty and survival under extreme research conditions, financial support is welcomed. Please contact the author for secure transfer details.
 
 Consultation & AGI Strategy: For deep-dive discussions on applying IIM to AI architectures or cognitive systems.
-Contact: yuqinghong2002@gmail.com     +86 18033660513
-
+Contact: yuqinghong2002@gmail.com   
 On CPT: The Companion Framework
 IIM represents the deconstruction (破) of perceived reality. It is complemented by a separate, operational framework for intellectual sovereignty and mental defense — CPT (Critical Practice Postulatism), which represents the construction (立). Full documentation of CPT is held privately. Inquiries from those who grasp IIM's implications and seek the "Construction" are welcome.
 
