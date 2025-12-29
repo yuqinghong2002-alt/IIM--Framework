@@ -50,9 +50,6 @@ Commercial use is prohibited without explicit permission.
 
 Academic citation of this repository or its core ideas is required for any derived discussion or work.
 
-Support & Intellectual Recognition
-This research was born from the intersection of existential pressure and physical deduction. If these insights provide value to your work or understanding of the mind, you are invited to support the author's continued independence.
-
 Contact: yuqinghong2002@gmail.com   
 On CPT: The Companion Framework
 IIM represents the deconstruction (破) of perceived reality. It is complemented by a separate, operational framework for intellectual sovereignty and mental defense — CPT (Critical Practice Postulatism), which represents the construction (立). Full documentation of CPT is held privately. Inquiries from those who grasp IIM's implications and seek the "Construction" are welcome.
