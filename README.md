@@ -1,8 +1,8 @@
 [📥 Download PDF (Raw)](https://github.com/yuqinghong2002-alt/IIM-Framework/blob/main/The%20Information%20Integration%20Model%20(IIM).pdf)
 
-Preprint Notice
-This repository contains the author's preprint manuscript of the paper titled "IIM (Information Integration Model): Consciousness as a Compensatory Patch under Physical Speed Limits".
-Status: Submitted to Synthese (under review).
+A first-principles approach to Consciousness and Cognitive Science, exploring the Physics of Cognition through the lens of Predictive Processing and universal speed limits ($c$)
+
+"IIM provides the physical foundation for Predictive Processing models..."
 
 "Truth does not require complex vocabulary to be true. It only requires a mind that refuses to look away from the fundamental constraints of reality."
 
